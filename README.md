@@ -6,12 +6,9 @@
 - 🔭 currently learning about PWAs
 - ✨ 2021 Goal: Contribute to open source projects
 
-<br>
 
 ### 🕮 Languages and frameworks I'm familiar with:
-
 <br>
-
 ### Languages
 <img src="https://img.shields.io/badge/HTML%20-red?logo=HTML5&style=for-the-badge&logoColor=ffffff">&nbsp;
 <img src="https://img.shields.io/badge/CSS%20-blue?logo=css3&style=for-the-badge">&nbsp;
