@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/BOOTSTRAP%20-7952b3?logo=Bootstrap&style=for-the-badge&logoColor=ffffff">&nbsp;
 <img src="https://img.shields.io/badge/SASS%20-cc6699?logo=sass&style=for-the-badge&logoColor=ffffff">&nbsp;
 <img src="https://img.shields.io/badge/styled%20components%20-db7093?logo=styled-components&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/graphql%20-e10098?logo=graphql&style=for-the-badge&logoColor=ffffff">&nbsp;
+
 
 
 
