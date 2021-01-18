@@ -56,7 +56,7 @@
 
 <br>
 
-[![mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitk0208&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitk0208&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
