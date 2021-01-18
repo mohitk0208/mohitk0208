@@ -8,11 +8,10 @@
 
 <br>
 
-<!-- ----------------------------------------------------------- -->
 ### 🕮 Languages and frameworks I'm familiar with:
 
 <br>
-<!-- languages -->
+
 ### Languages
 <img src="https://img.shields.io/badge/HTML%20-red?logo=HTML5&style=for-the-badge&logoColor=ffffff">&nbsp;
 <img src="https://img.shields.io/badge/CSS%20-blue?logo=css3&style=for-the-badge">&nbsp;
