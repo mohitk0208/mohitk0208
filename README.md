@@ -38,6 +38,22 @@
 <img src="https://img.shields.io/badge/INTELLIJ IDEA%20-000000?logo=intellij%20idea&style=for-the-badge&logoColor=ffffff">&nbsp;
 
 ---
+### Find me Here :coffee:
+
+<br>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/mohit-kumar-83632915a/">
+        <img src="https://img.shields.io/badge/linkedIn%20-0077b5?logo=linkedin&style=for-the-badge&logoColor=ffffff">&nbsp;
+    </a>
+    <a href="https://www.hackerrank.com/mohitk02082000">
+        <img src="https://img.shields.io/badge/hackerrank%20-2ec866?logo=hackerrank&style=for-the-badge&logoColor=ffffff">&nbsp;
+    </a>
+    <a href="https://stackoverflow.com/users/13967915/mohit-kumar">
+        <img src="https://img.shields.io/badge/stackoverflow%20-fe7a16?logo=stackoverflow&style=for-the-badge&logoColor=ffffff">&nbsp;
+    </a>
+
+</p>
 
 <br>
 
