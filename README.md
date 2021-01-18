@@ -7,9 +7,35 @@
 - ✨ 2021 Goal: Contribute to open source projects
 
 <br>
+
+### 🕮 Languages and frameworks I'm familiar with:
+
 <br>
 
-### 🕮 Languages I'm familiar with:
+<!-- languages -->
+<img src="https://img.shields.io/badge/HTML%20-red?logo=HTML5&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/CSS%20-blue?logo=css3&style=for-the-badge">&nbsp;
+<img src="https://img.shields.io/badge/JAVASCRIPT%20-f7df1e?logo=JavaScript&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/C%20-a8b9cc?logo=c&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/c++%20-00599c?logo=c++&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/PYTHON%20-3776ab?logo=python&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/BASH%20-4eaa25?logo=gnu bash&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/JAVA%20-007396?logo=java&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/SASS%20-cc6699?logo=sass&style=for-the-badge&logoColor=ffffff">&nbsp;
+
+
+
+<!-- frameworks and runtime environments -->
+<img src="https://img.shields.io/badge/NODE JS%20-339933?logo=node.js&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/REACT%20-61dafb?logo=react&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/BOOTSTRAP%20-7952b3?logo=Bootstrap&style=for-the-badge&logoColor=ffffff">&nbsp;
+
+
+### Preffered IDEs
+
+<img src="https://img.shields.io/badge/VS CODE%20-007acc?logo=visual studio code&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/ECLIPSE IDE%20-2c2255?logo=eclipse ide&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/INTELLIJ IDEA%20-000000?logo=intellij idea&style=for-the-badge&logoColor=ffffff">&nbsp;
 
 ---
 
