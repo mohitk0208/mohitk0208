@@ -43,13 +43,13 @@
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mohit-kumar-83632915a/">
+    <a target="_blank" href="https://www.linkedin.com/in/mohit-kumar-83632915a/">
         <img src="https://img.shields.io/badge/linkedIn%20-0077b5?logo=linkedin&style=for-the-badge&logoColor=ffffff">&nbsp;
     </a>
-    <a href="https://www.hackerrank.com/mohitk02082000">
+    <a target="_blank" href="https://www.hackerrank.com/mohitk02082000">
         <img src="https://img.shields.io/badge/hackerrank%20-2ec866?logo=hackerrank&style=for-the-badge&logoColor=ffffff">&nbsp;
     </a>
-    <a href="https://stackoverflow.com/users/13967915/mohit-kumar">
+    <a target="_blank" href="https://stackoverflow.com/users/13967915/mohit-kumar">
         <img src="https://img.shields.io/badge/stackoverflow%20-fe7a16?logo=stackoverflow&style=for-the-badge&logoColor=ffffff">&nbsp;
     </a>
 
