@@ -8,10 +8,10 @@
 
 <br>
 
+<!-- ----------------------------------------------------------- -->
 ### 🕮 Languages and frameworks I'm familiar with:
 
 <br>
-
 <!-- languages -->
 ### Languages
 <img src="https://img.shields.io/badge/HTML%20-red?logo=HTML5&style=for-the-badge&logoColor=ffffff">&nbsp;
@@ -49,9 +49,9 @@
 
 <div align="center">
 
-[![linkedin profile link](https://img.shields.io/badge/linkedIn%20-0077b5?logo=linkedin&style=for-the-badge&logoColor=ffffff)](linkedin)&nbsp;
-[![hackerrank profile](https://img.shields.io/badge/hackerrank%20-2ec866?logo=hackerrank&style=for-the-badge&logoColor=ffffff)](hackerrank)&nbsp;
-[![stackoverflow profile](https://img.shields.io/badge/stackoverflow%20-fe7a16?logo=stackoverflow&style=for-the-badge&logoColor=ffffff)](stackoverflow)
+[![linkedin profile link](https://img.shields.io/badge/linkedIn%20-0077b5?logo=linkedin&style=for-the-badge&logoColor=ffffff)][linkedin]&nbsp;
+[![hackerrank profile](https://img.shields.io/badge/hackerrank%20-2ec866?logo=hackerrank&style=for-the-badge&logoColor=ffffff)][hackerrank]&nbsp;
+[![stackoverflow profile](https://img.shields.io/badge/stackoverflow%20-fe7a16?logo=stackoverflow&style=for-the-badge&logoColor=ffffff)][stackoverflow]
 
 </div>
 
