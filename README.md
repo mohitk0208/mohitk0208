@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/C%20-a8b9cc?logo=c&style=for-the-badge&logoColor=ffffff">&nbsp;
 <img src="https://img.shields.io/badge/c++%20-00599c?logo=c++&style=for-the-badge&logoColor=ffffff">&nbsp;
 <img src="https://img.shields.io/badge/PYTHON%20-3776ab?logo=python&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/BASH%20-4eaa25?logo=gnu bash&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/BASH%20-4eaa25?logo=gnu%20bash&style=for-the-badge&logoColor=ffffff">&nbsp;
 <img src="https://img.shields.io/badge/JAVA%20-007396?logo=java&style=for-the-badge&logoColor=ffffff">&nbsp;
 <img src="https://img.shields.io/badge/SASS%20-cc6699?logo=sass&style=for-the-badge&logoColor=ffffff">&nbsp;
 
@@ -33,9 +33,9 @@
 
 ### Preffered IDEs
 
-<img src="https://img.shields.io/badge/VS CODE%20-007acc?logo=visual studio code&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/ECLIPSE IDE%20-2c2255?logo=eclipse ide&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/INTELLIJ IDEA%20-000000?logo=intellij idea&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/VS CODE%20-007acc?logo=visual%20studio%20code&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/ECLIPSE IDE%20-2c2255?logo=eclipse%20ide&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="https://img.shields.io/badge/INTELLIJ IDEA%20-000000?logo=intellij%20idea&style=for-the-badge&logoColor=ffffff">&nbsp;
 
 ---
 
