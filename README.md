@@ -25,12 +25,12 @@
 ### Frameworks and tools
 
 <!-- frameworks and runtime environments -->
-<img src="https://img.shields.io/badge/NODE JS%20-339933?logo=node.js&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/REACT%20-61dafb?logo=react&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/BOOTSTRAP%20-7952b3?logo=Bootstrap&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/SASS%20-cc6699?logo=sass&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/styled%20components%20-db7093?logo=styled-components&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/graphql%20-e10098?logo=graphql&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="./assets/badges/tools/node.svg">&nbsp;
+<img src="./assets/badges/tools/react.svg">&nbsp;
+<img src="./assets/badges/tools/bootstrap.svg">&nbsp;
+<img src="./assets/badges/tools/sass.svg">&nbsp;
+<img src="./assets/badges/tools/styled-components.svg">&nbsp;
+<img src="./assets/badges/tools/graphql.svg">&nbsp;
 
 
 
