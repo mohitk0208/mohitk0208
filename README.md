@@ -11,15 +11,15 @@
 
 
 ### Languages
-<img src="https://img.shields.io/badge/HTML%20-red?logo=HTML5&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/CSS%20-blue?logo=css3&style=for-the-badge">&nbsp;
-<img src="https://img.shields.io/badge/JAVASCRIPT%20-f7df1e?logo=JavaScript&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/C%20-a8b9cc?logo=c&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/c++%20-00599c?logo=c%2B%2B&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/PYTHON%20-3776ab?logo=python&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/BASH%20-4eaa25?logo=gnu%20bash&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/JAVA%20-007396?logo=java&style=for-the-badge&logoColor=ffffff">&nbsp;
-<img src="https://img.shields.io/badge/typescript%20-3178c6?logo=Typescript&style=for-the-badge&logoColor=ffffff">&nbsp;
+<img src="./assets/badges/languages/html.svg">&nbsp;
+<img src="./assets/badges/languages/css.svg">&nbsp;
+<img src="./assets/badges/languages/javascript.svg">&nbsp;
+<img src="./assets/badges/languages/c.svg">&nbsp;
+<img src="./assets/badges/languages/cpp.svg">&nbsp;
+<img src="./assets/badges/languages/python.svg">&nbsp;
+<img src="./assets/badges/languages/bash.svg">&nbsp;
+<img src="./assets/badges/languages/java.svg">&nbsp;
+<img src="./assets/badges/languages/typescript.svg">&nbsp;
 
 
 ### Frameworks and tools
