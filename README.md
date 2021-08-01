@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer 👨🏽‍💻
 
-- 🌱 always ready to learn new things
+- 🍀 always ready to learn new things
 - 🔭 currently learning about PWAs
 - ✨ 2021 Goal: Contribute to open source projects
 
