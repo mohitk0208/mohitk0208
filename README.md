@@ -4,7 +4,7 @@
 
 - 🍀 always ready to learn new things
 - 🔭 currently learning about PWAs
-- ✨ 2021 Goal: Contribute to open source projects
+- ✨ Current Goal: Contribute to open source projects
 
 
 ### 🕮 Languages and frameworks I'm familiar with:
